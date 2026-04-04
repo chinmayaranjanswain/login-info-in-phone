@@ -8,8 +8,8 @@ from datetime import datetime
 # Replace these with your actual details
 # token = "8529630607:AAFoYwbpzA4hmm0juTQUR0I0wy5w3L6w_4g"
 # chat_id = "6154899005"
-BOT_TOKEN = "8529630607:AAFoYwbpzA4hmm0juTQUR0I0wy5w3L6w_4g"
-OWNER_ID = "6154899005"  # <--- This is the Key. Only this ID gets messages.
+BOT_TOKEN = "create a bot token"
+OWNER_ID = "add your id from teligram"  # <--- This is the Key. Only this ID gets messages.
 # ---------------------------------
 
 def get_public_ip():
